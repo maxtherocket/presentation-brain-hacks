@@ -1,28 +1,28 @@
+# BRAIN HACKS
+
+---
+
 # ABOUT ME
+
+^ Work at Jam3
+
+^ Co-founder of Goods app
+
+^ Cook for dog
+
+^ Cycling, meditation, yoga, reading
 
 ---
 
 # YOUR BRAIN
 
+^ We're all creatives, technologists, artists, managers we use our brains to build things, make things happen
+
+^ Your brain is constantly at work, it's making decisions without you knowing
+
+^ Solving problems while you sleep
+
 ---
 
 ## Help Your Brain
 
-It’s _**sooo easy**_ to show `codeSamples();` in your presentations. Deckset applies syntax highlighting and scales the type size so it always looks great.
-
----
-
-### Hello World!
-
-```javascript
-function myFunction(){
-	alert(“Hello World!”)
-};
-```
-
-### **loooong** lines are scaled down
-
-```objectivec 
-UIView *someView = [[UIView alloc] init];
-NSString *string = @"some string that is really, really, really really long, and has many, many, many words";
-```
