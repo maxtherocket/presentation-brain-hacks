@@ -68,6 +68,8 @@
 
 ^ Just a 7 minute exercise every day can boost your brain's efficiency throught the day
 
+^ Stand at work or take breaks, your body was not designed for sitting
+
 ---
 
 # FOCUS
@@ -92,9 +94,43 @@
 
 # MEDITATION
 
+^ I've been practicing mindful meditation for about 5 years now
+
+^ I meditate for at least 5 minutes every morning
+
+^ Meditation helped me focus better, be less reactive and be mindful of the present
+
 ^ If you really want to improve your focus, I invite you to start meditating
 
-^ 
+^  
+
+---
+
+## MEDITATION BENIFITS
+
+- Improves Concentration
+- Boosts Creativity
+- Decreases Anxiety
+- Improves Sleep
+- You Gain Clarity
+
+
+---
+
+## MEDITATION
+
+> I'm so busy today, that... I'm going to meditate 2 hours instead of 1.
+
+-- Gandhi
+
+---
+
+## GET STARTED
+
+- Mindfulness App
+- Simply Being App
+- Get Some Headspace App
+- Sign up for a meditation course
 
 ---
 
