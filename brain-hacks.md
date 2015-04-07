@@ -2,6 +2,8 @@
 
 ^ Good afternoon, thanks for being here
 
+^ I will be talking about how you can make your brain work efficiently, be more creative and stay focused
+
 ^ You will walk out of here with a whole new mind today
 
 ---
@@ -30,7 +32,7 @@
 
 ^ Solving problems while you sleep
 
-^ Your productivity and creativity and focus starts with a healthy brain
+^ The source of your productivity and creativity and focus starts with a healthy brain
 
 ---
 
@@ -58,6 +60,12 @@
 
 ^ Sleep restores your phycical energy and helps your brain process and store information as well as create new connections
 
+^ Bedroom should be dark and quite
+
+^ Avoid screens before bed
+
+^ Have a caffeine curfue
+
 ---
 
 # EXCERCISE
@@ -70,9 +78,19 @@
 
 ^ Stand at work or take breaks, your body was not designed for sitting
 
+^ Lets stand up and stretch
+
 ---
 
-# FOCUS
+## GO LIFT
+
+- Morning Exercise
+- Cardio
+- Yoga
+
+---
+
+# IMPROVE FOCUS
 
 ^ Eliminate distractions
 
@@ -102,8 +120,6 @@
 
 ^ If you really want to improve your focus, I invite you to start meditating
 
-^  
-
 ---
 
 ## MEDITATION BENIFITS
@@ -114,6 +130,7 @@
 - Improves Sleep
 - You Gain Clarity
 
+^ Myths: Chanting mantras, hour a day, sitting in lotus position, wearing robe
 
 ---
 
@@ -134,7 +151,17 @@
 
 ---
 
-# BRAIN ENERGY
+# NUTRITION
+
+^ Water
+
+^ Fats
+
+^ Brain Food
+
+---
+
+# CONSERVE BRAIN ENERGY
 
 ^ Your ability to think and make decisions is a limited resource, so conserve the your resources and focus your energy on things that matter
 
@@ -146,16 +173,6 @@
 
 ---
 
-# NUTRITION
-
-^ Water
-
-^ Fats
-
-^ Brain Food
-
----
-
 # LAUGH
 
 ^ happy brain = productive brain
@@ -164,5 +181,5 @@
 
 ^ Prank coworkers
 
-^ Take an improv glass so that you can 
+^ Take an improv glass so that you can generate more excitement from everyday life
 
