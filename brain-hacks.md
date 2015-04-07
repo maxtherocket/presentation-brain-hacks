@@ -24,6 +24,10 @@
 
 ---
 
+^ How do I know this
+
+---
+
 # YOUR BRAIN
 
 ^ We're all creatives, technologists, artists, managers we use our brains to build things, make things happen
@@ -158,6 +162,8 @@
 ^ Fats
 
 ^ Brain Food
+
+^ Caffeine is good, stay away from sugar
 
 ---
 
