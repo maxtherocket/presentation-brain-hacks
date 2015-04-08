@@ -10,7 +10,7 @@
 
 # ABOUT ME
 
-^ Work at Jam3
+^ I'm a developer, I work at Jam3
 
 ^ Co-founder of the Tomato app
 
@@ -22,9 +22,13 @@
 
 ^ Cycling, meditation, yoga, reading
 
+^ Why did I chose to do a talk about the brain and not on development
+
 ---
 
 ^ How do I know this
+
+^ Books, podcasts, research, personal experience
 
 ---
 
@@ -74,6 +78,10 @@
 
 # EXCERCISE
 
+^ Our bodies and minds are linked together
+
+^ As our bodies lack movement, so too do our minds
+
 ^ Healthy and effective brain start with a healthy body
 
 ^ Your body needs exercise every day!
@@ -109,6 +117,8 @@
 ^ Write down your thoughts and things you need to do, categorize them
 
 ^ Use Evernote
+
+^ Pomodoro technique
 
 ^ BOOK: The Organized Mind Daniel J Levitin
 
@@ -176,6 +186,10 @@
 ^ Study in 1898
 
 ^ Turn tasks into routines so your brain doesn't use up energy thinking about it
+
+---
+
+# LEARN
 
 ---
 
