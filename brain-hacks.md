@@ -24,8 +24,6 @@
 
 ^ Why did I chose to do a talk about the brain and not on development
 
----
-
 ^ How do I know this
 
 ^ Books, podcasts, research, personal experience
@@ -36,27 +34,19 @@
 
 ^ We're all creatives, technologists, artists, managers we use our brains to build things, make things happen
 
-^ Your brain is constantly at work, it's making decisions without you knowing
-
-^ Solving problems while you sleep
+^ Your brain is constantly at work, it's making decisions without you knowing, solving problems while you sleep
 
 ^ The source of your productivity and creativity and focus starts with a healthy brain
-
----
-
-# HELP YOUR BRAIN
 
 ^ Your brain needs your help to function properly
 
 ^ Your brain is not meant to survive in today's world
 
-^ Most of the time we are working agains our brain
-
 ^ I hope you came here because you'd like to improve the way your brain functions
 
 ^ Well this won't happen just by listenning to me, you'll have to take actions
 
-^ Your brain will resist any change and implementing new habits, you need to create structures in your life to stick to your habits
+^ Your brain will resist any change and when implementing new habits, you need to create structures in your life to stick to your habits
 
 ---
 
@@ -73,6 +63,14 @@
 ^ Avoid screens before bed
 
 ^ Have a caffeine curfue
+
+---
+
+# SLEEP
+
+- Dark & Quite
+- Avoid screens before bed
+- Have a ceffeine curfue
 
 ---
 
@@ -99,6 +97,9 @@
 - Morning Exercise
 - Cardio
 - Yoga
+- Cycling
+- Take breaks from sitting
+- or get a standing desk
 
 ---
 
@@ -203,3 +204,17 @@
 
 ^ Take an improv glass so that you can generate more excitement from everyday life
 
+---
+
+# MORNING ROUTINE
+
+---
+
+^ Conclusion
+
+---
+
+# THANK YOU
+
+@maxtherocket
+max@maxtherocket.com
