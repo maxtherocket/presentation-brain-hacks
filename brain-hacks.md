@@ -168,13 +168,31 @@
 
 # NUTRITION
 
-^ Water
+- Water
 
-^ Fats
+^ Water, helps remove waste and help blood circulation
 
-^ Brain Food
+^ Dehydration will effect your mood and energy levels, you will get headaches and you will find youself unable to concentrate
+
+- Fats
+
+^ Fats help your brain transmit and receive information, and maintain other function like water storage and energy production
+
+- Brain Food
 
 ^ Caffeine is good, stay away from sugar
+
+---
+
+# BRAIN FOODS
+
+- Blueberries
+- Avocados
+- Nuts and Seeds
+- Salmon
+- Dark leafy greens
+- Whole grains
+- Dark Chocolate
 
 ---
 
@@ -192,6 +210,8 @@
 
 # LEARN
 
+
+
 ---
 
 # LAUGH
@@ -208,9 +228,21 @@
 
 # MORNING ROUTINE
 
+- Meditation
+- Affirmations
+- Exercise
+- Write down what I am thankful for
+- Write down commitments for the day
+
 ---
 
 ^ Conclusion
+
+^ You are constantly using your brain, from basic activities like walking and eating to creating wonderful things
+
+^ Your brain is a complicated machine, and it needs your help to perform optimally, including good nutrition and rest. 
+
+^ Be good to your brain, and it will be good to you!
 
 ---
 
