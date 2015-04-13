@@ -1,18 +1,42 @@
 # BRAIN HACKS
 
-^ Good afternoon, thanks for being here
+^ Acknowledge friends, coworkers, FITC, ladies
 
-^ I will be talking about how you can make your brain work efficiently, be more creative and stay focused
+^ First time talking, photo
 
-^ You will walk out of here with a whole new mind today
+^ Brain work efficiently, stay focused and be more creative
+
+^ I'm going to help you make your brain work for you
+
+^ If you take this on, you will have a whole new mind
 
 ---
 
-# ABOUT ME
+# ME
 
-^ I'm a developer, I work at Jam3
+^ Moved to Canada from Ukraine with my family, 17 years
 
-^ Co-founder of the Tomato app
+^ I'm mostly a developer
+
+^ Although in my freelance days I was doing a lot of design
+
+^ I've been working in the industry for about 10 years now
+
+^ Spend most of my time with code, programming the matrix
+
+^ Mostly self taught
+
+---
+
+![autoplay loop](videos/jam3-reel.mp4)
+
+---
+
+![](images/tomato.png)
+
+---
+
+![mute](videos/bull.mov)
 
 ^ I love cooking ... for my dog
 
@@ -30,17 +54,19 @@
 
 ---
 
+![right](images/homer-brain.jpg)
+
 # YOUR BRAIN
 
-^ We're all creatives, technologists, artists, managers we use our brains to build things, make things happen
+^ We all use our brains to work
 
-^ Your brain is constantly at work, it's making decisions without you knowing, solving problems while you sleep
+^ Your brain is constantly at work
 
-^ The source of your productivity and creativity and focus starts with a healthy brain
-
-^ Your brain needs your help to function properly
+^ The source of your productivity and creativity and focus
 
 ^ Your brain is not meant to survive in today's world
+
+^ Your brain needs your help to function properly
 
 ^ I hope you came here because you'd like to improve the way your brain functions
 
@@ -52,29 +78,33 @@
 
 # SLEEP
 
+![left](images/sleep.jpg)
+
+^ Who has had ... ?
+
 ^ Lack of sleep will: weaken your immunity, diminish your ability to focus and drain your physical and mental energy
 
 ^ Sleep is essential for a healthy and productive brain
 
 ^ Sleep restores your phycical energy and helps your brain process and store information as well as create new connections
 
-^ Bedroom should be dark and quite
-
-^ Avoid screens before bed
-
-^ Have a caffeine curfue
+^ Take naps 
 
 ---
 
+![](images/george.png)
+
 # SLEEP
 
-- Dark & Quite
+- Dark & quite
 - Avoid screens before bed
 - Have a ceffeine curfue
 
 ---
 
 # EXCERCISE
+
+![right fit](images/exercise.jpg)
 
 ^ Our bodies and minds are linked together
 
@@ -92,6 +122,8 @@
 
 ---
 
+![right](images/7min.png)
+
 ## GO LIFT
 
 - Morning Exercise
@@ -99,7 +131,7 @@
 - Yoga
 - Cycling
 - Take breaks from sitting
-- or get a standing desk
+- Get a standing desk
 
 ---
 
@@ -109,7 +141,7 @@
 
 ^ Don't try to multitask, you can't do it!
 
-^ A constanct distraction from phone and emails will drop your IQ by 10 points, similar effect to what you get from missing a night of sleep
+^ A constanct distraction from phone and emails will drop your IQ by 10 points
 
 ^ When we switch our attention between different activities, our brain is unable to function effectively. This in turn causes us to make thoughtless mistakes, or forget and misplace things.
 
@@ -136,6 +168,8 @@
 ^ If you really want to improve your focus, I invite you to start meditating
 
 ---
+
+![left](images/meditation.jpg)
 
 ## MEDITATION BENIFITS
 
@@ -168,6 +202,8 @@
 
 # NUTRITION
 
+![right](images/food.jpg)
+
 - Water
 
 ^ Water, helps remove waste and help blood circulation
@@ -181,6 +217,8 @@
 - Brain Food
 
 ^ Caffeine is good, stay away from sugar
+
+^ Sugar impairs brain function
 
 ---
 
@@ -196,7 +234,7 @@
 
 ---
 
-# CONSERVE BRAIN ENERGY
+# CONSERVE YOUR ENERGY
 
 ^ Your ability to think and make decisions is a limited resource, so conserve the your resources and focus your energy on things that matter
 
@@ -208,13 +246,7 @@
 
 ---
 
-# LEARN
-
-
-
----
-
-# LAUGH
+# LAUGH :smile:
 
 ^ happy brain = productive brain
 
@@ -226,7 +258,9 @@
 
 ---
 
-# MORNING ROUTINE
+![](images/toronto.jpg)
+
+# MY MORNING ROUTINE
 
 - Meditation
 - Affirmations
@@ -235,6 +269,12 @@
 - Write down commitments for the day
 
 ---
+
+# CREATIVITY
+
+---
+
+![](images/brain.png)
 
 ^ Conclusion
 
@@ -246,7 +286,15 @@
 
 ---
 
+# BOOKS
+
+- **Sleep Smarter: 21 Proven Tips** by Shawn Stevenson
+
+---
+
+![right](images/cowboy.jpg)
+
 # THANK YOU
 
-@maxtherocket
 max@maxtherocket.com
+@maxtherocket
