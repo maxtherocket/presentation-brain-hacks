@@ -1,18 +1,29 @@
 # BRAIN HACKS
 
-^ Acknowledge friends, coworkers, FITC, ladies
+![](images/intro.jpg)
+
+^ Appology
+
+^ Acknowledge friends, co-workers, FITC, ladies
 
 ^ First time talking, photo
 
-^ Brain work efficiently, stay focused and be more creative
+^ Help brain work efficiently, stay focused and be more creative
 
 ^ I'm going to help you make your brain work for you
 
 ^ If you take this on, you will have a whole new mind
 
+^ Who is commited?
+
 ---
 
-# ME
+![right](images/me.jpg)
+
+![inline](images/rocket-small.png)
+
+# MAX RUSAN
+## MAXTHEROCKET.COM
 
 ^ Moved to Canada from Ukraine with my family, 17 years
 
@@ -24,7 +35,7 @@
 
 ^ Spend most of my time with code, programming the matrix
 
-^ Mostly self taught
+^ I went to Seneca and Ryerson, but my craft is mostly self taught
 
 ---
 
@@ -42,11 +53,11 @@
 
 ^ Public speaking
 
-^ Eating, photography
+^ Eating, photography, dancing
 
 ^ Cycling, meditation, yoga, reading
 
-^ Why did I chose to do a talk about the brain and not on development
+^ Why did I chose to do a talk about the brain and not on development...
 
 ^ How do I know this
 
@@ -62,17 +73,23 @@
 
 ^ Your brain is constantly at work
 
-^ The source of your productivity and creativity and focus
+^ THE SOURCE of your productivity and creativity and focus
 
-^ Your brain is not meant to survive in today's world
+^ Your brain is not meant to work in today's world, PRIMITIVE, FLAWED
 
-^ Your brain needs your help to function properly
+^ Brain presents ROADBLOCKS that are stopping you from LIVING OUT YOUR DREAM
+
+^ Fear, uncertainty, doubt
+
+^ Your brain needs your help to function properly, maintainig HEALTH is a constant process
 
 ^ I hope you came here because you'd like to improve the way your brain functions
 
-^ Well this won't happen just by listenning to me, you'll have to take actions
+^ Well this won't happen just by listening to me, you'll have to take actions
 
-^ Your brain will resist any change and when implementing new habits, you need to create structures in your life to stick to your habits
+^ Your brain will RESIST CHANGE, NEW HABITS, you need to create STRUCTURES
+
+^ Your brain MECHANICS will sabotage you
 
 ---
 
@@ -82,11 +99,11 @@
 
 ^ Who has had ... ?
 
-^ Lack of sleep will: weaken your immunity, diminish your ability to focus and drain your physical and mental energy
+^ Lack of sleep will: WEAKEN your immunity, DIMINISH your ability to focus and DRAIN your physical and mental energy
 
 ^ Sleep is essential for a healthy and productive brain
 
-^ Sleep restores your phycical energy and helps your brain process and store information as well as create new connections
+^ MAGIC, Sleep restores your physical energy and helps your brain process and store information as well as create new connections
 
 ^ Take naps 
 
@@ -96,9 +113,9 @@
 
 # SLEEP
 
-- Dark & quite
+- Dark & quiet
 - Avoid screens before bed
-- Have a ceffeine curfue
+- Have a caffeine curfew
 
 ---
 
@@ -122,11 +139,11 @@
 
 ---
 
-![right](images/7min.png)
+![left](images/lift.jpg)
 
-## GO LIFT
+## GO LIFT!
 
-- Morning Exercise
+- Morning Exercise (7 Minute Workout)
 - Cardio
 - Yoga
 - Cycling
@@ -135,29 +152,45 @@
 
 ---
 
-# IMPROVE FOCUS
+# FOCUS
 
-^ Eliminate distractions
+![right](images/focus.jpg)
 
 ^ Don't try to multitask, you can't do it!
 
-^ A constanct distraction from phone and emails will drop your IQ by 10 points
+^ Eliminate distractions, constant distraction = 10 IQ points, when switching..
 
-^ When we switch our attention between different activities, our brain is unable to function effectively. This in turn causes us to make thoughtless mistakes, or forget and misplace things.
+^ self-control is a limited resource
 
 ^ Keep a clean environment, inside your head and outside, get a junk drawer
 
-^ Write down your thoughts and things you need to do, categorize them
+^ Don’t cram your brain, write down your thoughts and things you need to do, categorize them
+
+^ Your ability to think and make decisions is a limited resource, so conserve the your resources and focus your energy on things that matter, 1898
 
 ^ Use Evernote
 
+^ Do Not Disturb 
+
 ^ Pomodoro technique
 
-^ BOOK: The Organized Mind Daniel J Levitin
+---
+
+# FOCUS
+
+![left](images/focus-words.jpg)
+
+- Eliminate distractions
+- Clear your desk and your mind
+- Pomodoro technique
+- Leave time for distractions
+- focusmanifesto.com
 
 ---
 
 # MEDITATION
+
+![](images/meditation-wall.jpg)
 
 ^ I've been practicing mindful meditation for about 5 years now
 
@@ -171,7 +204,7 @@
 
 ![left](images/meditation.jpg)
 
-## MEDITATION BENIFITS
+## MEDITATION BENEFITS
 
 - Improves Concentration
 - Boosts Creativity
@@ -185,7 +218,7 @@
 
 ## MEDITATION
 
-> I'm so busy today, that... I'm going to meditate 2 hours instead of 1.
+> I'm so busy today, that... I'm going to meditate two hours instead of one.
 
 -- Gandhi
 
@@ -193,22 +226,27 @@
 
 ## GET STARTED
 
+![right](images/iphone-meditation.jpg)
+
 - Mindfulness App
 - Simply Being App
 - Get Some Headspace App
 - Sign up for a meditation course
+- Muse
+
+^ EEG
 
 ---
 
 # NUTRITION
 
-![right](images/food.jpg)
+![left](images/food.jpg)
 
 - Water
 
 ^ Water, helps remove waste and help blood circulation
 
-^ Dehydration will effect your mood and energy levels, you will get headaches and you will find youself unable to concentrate
+^ Dehydration will affect your mood and energy levels, you will get headaches and you will find yourself unable to concentrate
 
 - Fats
 
@@ -222,6 +260,8 @@
 
 ---
 
+![right](images/brain-food.jpg)
+
 # BRAIN FOODS
 
 - Blueberries
@@ -234,27 +274,26 @@
 
 ---
 
-# CONSERVE YOUR ENERGY
-
-^ Your ability to think and make decisions is a limited resource, so conserve the your resources and focus your energy on things that matter
-
-^ We use a massive amount of energy in all our interactions with the world, which fatigues our ability to think clearly. This indicates that our capacity for active thought is limited.
-
-^ Study in 1898
-
-^ Turn tasks into routines so your brain doesn't use up energy thinking about it
-
----
-
 # LAUGH :smile:
 
-^ happy brain = productive brain
+- Happy Brain = Productive Brain
 
-^ Follow comedians on Instagram/Twitter
+^ Follow comedians on social networks
 
 ^ Prank coworkers
 
 ^ Take an improv glass so that you can generate more excitement from everyday life
+
+---
+
+![right](images/creativity.jpg)
+
+# CREATIVITY
+
+- Look for inspiration
+- Get outside
+- Engage in *creative* activities
+- Take care of your brain!
 
 ---
 
@@ -263,14 +302,10 @@
 # MY MORNING ROUTINE
 
 - Meditation
-- Affirmations
+- Visualizations
 - Exercise
 - Write down what I am thankful for
 - Write down commitments for the day
-
----
-
-# CREATIVITY
 
 ---
 
@@ -289,6 +324,19 @@
 # BOOKS
 
 - **Sleep Smarter: 21 Proven Tips** by Shawn Stevenson
+- **The Organized Mind** by Daniel J Levitin
+- **The Art of Thinking Clearly** by Rolf Dobelli
+- **Your Brain at Work** by David Rock
+- **The Future of The Mind** by Michio Kaku
+- **The Power of Now** by Eckhart Tolle
+
+---
+
+## PODCASTS
+
+- Tim Ferris Podcast
+- School of Greatness
+- The One You Feed
 
 ---
 
